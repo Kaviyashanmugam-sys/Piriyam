@@ -6,7 +6,7 @@ import {
 
 // ── API Base URL ──────────────────────────────────────────────
 // Change to your PC's IP when testing on phone (e.g. http://192.168.1.x:4000/api)
-const API = "http://localhost:4000/api";
+const API = "https://piriyam-production.up.railway.app/api";
 
 // ── Constants ─────────────────────────────────────────────────
 const HALLS       = ["Grand Hall", "Rose Hall", "Mini Hall", "Jasmine Hall"];
